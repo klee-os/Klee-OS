@@ -13,3 +13,5 @@ push:
 custom:
 	cd build
 	sudo ./mylfs.sh $C
+clean:
+	sudo rm -rf build
