@@ -9,4 +9,8 @@ In order to contribute, please follow these steps:
   7. Get your name on the list of hard working people who make this OS better!
   8. Rinse and repeat!
 # What happens durring the pull request?
-To find out what happens, check out the pinned pull request!
+  1. You give a change log.
+  2. I merge to main branch under special config folder.
+  3. Beta Testers vote.
+  4. If vote passes, merged into base
+  5. Done!
