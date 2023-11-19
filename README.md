@@ -23,3 +23,5 @@ For custom options, use
 ```
 make custom C="-b -x ../configs/[config]"
 ```
+# TODO!
+- [ ] Find out why script hits a snag
