@@ -1,4 +1,7 @@
+# Contributors
+krglaws - Making the lovely scripts to compile everything
 # Klee-OS-make
+
 This repo contains the build scripts for the os.
 To re-clone the build scripts, do 
 ```
